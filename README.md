@@ -1,4 +1,4 @@
-![greeting](https://www.codedex.io/images/wave.gif) # 👋 Hi, I’m Samuel Acosta
+![greeting](https://www.codedex.io/images/wave.gif) #Hi, I’m Samuel Acosta
 
 
 <!---
