@@ -1,4 +1,4 @@
-https://www.codedex.io/images/wave.gif # 👋 Hi, I’m Samuel Acosta
+!https://www.codedex.io/images/wave.gif # 👋 Hi, I’m Samuel Acosta
 
 
 <!---
