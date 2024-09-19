@@ -1,4 +1,4 @@
-!Divertido GIF # 👋 Hi, I’m Samuel Acosta
+! https://www.codedex.io/python/02-hello-world # 👋 Hi, I’m Samuel Acosta
 
 
 <!---
