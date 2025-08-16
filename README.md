@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Samuel
 ===============================================================================================================================
 
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNjazNzMDlzczZrYzdkMDBkY3g5Y3locjM1eWpqeXYxOWJtY3pqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"/>
+</div>
+
 I'm an enthusiastic programmer who loves to create and learn something new every day.
 
 * 🌍  I'm based in Venezuela
