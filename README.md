@@ -1,12 +1,12 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, My name is Samuel
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Samuel Acosta
 ===============================================================================================================================
 
 <div id="header" align="center">
   <img src="codingGuy.gif" width = "300px"/>
 </div>
 
-I'm an enthusiastic programmer who loves to create and learn something new every day.
----
+I'm a software engineering student at UNEG.
+
 * 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [sonosamuelacosta@gmail.com](mailto:sonosamuelacosta@gmail.com)
 * 🧠  I'm currently learning PHP, relational databases, and web design
