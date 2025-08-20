@@ -5,26 +5,26 @@
   <img src="codingGuy.gif" width = "300px"/>
 </div>
 
-## About me
+## 👨‍💻 About Me
 I'm a software engineering student at UNEG.
 
 * 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [sonosamuelacosta@gmail.com](mailto:sonosamuelacosta@gmail.com)
 * 🧠  I'm currently learning PHP, relational databases, and web design
 
-## Technologies that I use
+## 🛠️ My Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,react,mysql,bootstrap,laravel" />
   </a>
 </p>
 
-## Socials
+## 💻 Socials
 <a href="https://github.com/its-samuel-acosta">
 <img src="https://camo.githubusercontent.com/d40833b012ea2741c4a860a314a3d2eb63bdb0b6bd35d7b57ed0270b992bfa7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
 </a>
 
-## Badges
+## 📊 Badges
 
 <b>My GitHub Stats</b>
 
