@@ -15,9 +15,9 @@
         <li>🚀 Constantly learning new technologies and engineering principles</li>
       </ul>
       <br>
-      <p><i>I love connecting with different people</i></p>
+      <p><i><b>🤝 Let's connect! I'm passionate about building meaningful professional relationships and tech solutions.</b></i></p>
       <br>
-      <p> made with ❤ from Venezuela</p>
+      <p> <b> made with ❤ from Venezuela</b> </p>
     </td>
     <td width="40%">
       <img src="catworking.gif" alt="Working illustration" />
@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,react,mysql,bootstrap,laravel, C++, C" />
+    <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,react,mysql,laravel,cpp,c"/>
   </a>
 </p>
 
