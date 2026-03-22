@@ -3,13 +3,26 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a software engineering student at UNEG.
 
-* 🌍  I'm based in Venezuela
-* ✉️  You can contact me at [sonosamuelacosta@gmail.com](mailto:sonosamuelacosta@gmail.com)
-* 🧠  I'm currently learning PHP, relational databases, and web design
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 I am a dual student of <b>Electrical Engineering</b> and <b>Computer Science</b> </li>
+        <li>⚡ Passionate about Power Systems and Full-stack Development</li>
+        <li>🚀 Constantly learning new technologies and engineering principles</li>
+      </ul>
+      <p><i>I love connecting with different people</i></p>
+      <p> wiht ❤ from Venezuela</p>
+    </td>
+    <td width="40%">
+      <img src="catworking.gif" alt="Working illustration" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ My Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,react,mysql,bootstrap,laravel" />
