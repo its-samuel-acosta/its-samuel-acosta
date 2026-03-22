@@ -20,7 +20,7 @@
       <p> <b> made with ❤ from Venezuela</b> </p>
     </td>
     <td width="40%">
-      <img src="catworking.gif" alt="Working illustration" />
+      <img src="catworking.gif" alt="Working illustration"/>
     </td>
   </tr>
 </table>
