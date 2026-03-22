@@ -1,9 +1,6 @@
-https://readme-typing-svg.demolab.com/demo/?font=Pixelify+Sans&size=35&lines=Hi!%2C+I'm+Samuel+Acosta+
-===============================================================================================================================
 
-<div id="header" align="center">
-  <img src="codingGuy.gif" width = "300px"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Samuel+Acosta+)](https://git.io/typing-svg)
+---
 
 ## 👨‍💻 About Me
 I'm a software engineering student at UNEG.
@@ -18,11 +15,6 @@ I'm a software engineering student at UNEG.
     <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,react,mysql,bootstrap,laravel" />
   </a>
 </p>
-
-## 💻 Socials
-<a href="https://github.com/its-samuel-acosta">
-  <img src="https://skillicons.dev/icons?i=github">
-</a>
 
 ## 📊 Badges
 
