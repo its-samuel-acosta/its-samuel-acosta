@@ -17,7 +17,7 @@
       <br>
       <p><i>I love connecting with different people</i></p>
       <br>
-      <p> wiht ❤ from Venezuela</p>
+      <p> with ❤ from Venezuela</p>
     </td>
     <td width="40%">
       <img src="catworking.gif" alt="Working illustration" />
